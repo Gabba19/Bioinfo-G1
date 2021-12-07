@@ -9,7 +9,7 @@ Repositorio de las clases de Bioinformatica
 - R
 
 
-##Videos Clases Sincronicas 
+## Videos Clases sincronicas 
 - Introduccion
 -  Moleculas biologicas 
 -    Bases de datos 
@@ -19,8 +19,8 @@ Repositorio de las clases de Bioinformatica
 - R
 
 
-##Participantes 
+## Participantes 
 1. Gabrielle Galarraga 
-2. 
+2. Patricia estrella
 
 
