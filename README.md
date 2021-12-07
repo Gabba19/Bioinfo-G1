@@ -1,7 +1,7 @@
 # Bioinfo-G1
 Repositorio de las clases de Bioinformatica 
 
-##Presentaciones 
+## Presentaciones 
 - Introduccion 
 - Unix 
 - Git 
