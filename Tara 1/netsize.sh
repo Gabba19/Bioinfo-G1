@@ -10,5 +10,12 @@ $cd Saavedra2013
 Codigo para contar las columnas del Archivo Saavedra2013/n1.txt
 head -n 1 FILE | awk '{print NF}'
 
+Como resulda de n1.txt=80
+
+
 Codigo para contar las filas del Archivo Saavedra2013/n1.txt
 wc -l FILE
+Como resultado de n1.txt=97
+
+
+
